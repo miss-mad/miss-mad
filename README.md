@@ -1,7 +1,7 @@
 ### Hi, I'm Madeleine, and welcome to my Github
 
 - 🌱 I’m currently learning full stack web development through GA Tech (Dec '22 anticipated graduation)
-- ⚡ Fun fact: I am a KSU modern dance major-turned-pharmacy tech who enjoys road biking, hiking and poetry
+- ⚡ Fun fact: I am a KSU modern dance major-turned-pharmacy tech who enjoys road biking, hiking and travel
 - 💬 Ask me anything! I love meeting and collaborating with people
 - 📫 How to reach me: mmlh.harris@gmail.com
 
