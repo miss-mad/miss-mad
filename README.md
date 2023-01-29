@@ -4,6 +4,7 @@
 - 🌻 I’m currently adding to my portfolio and building MERN stack projects
 - ⚡ Fun fact: I am a KSU modern dance major-turned-pharmacy tech who enjoys road biking, hiking and travel
 - 💡 Stop by and say hi! I love meeting and collaborating with people
+- 📜 View my github gists: https://gist.github.com/miss-mad
 - 📫 How to reach me: mmlh.harris@gmail.com
 - 💼 View my portfolio here: https://miss-mad.github.io/portfolio
 
